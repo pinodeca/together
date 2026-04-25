@@ -1,0 +1,38 @@
+name: Open Question
+description: Raise an unresolved question for collaborative exploration
+labels:
+  - question
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: State the question clearly and precisely.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: What background is needed to understand this question?
+    validations:
+      required: true
+
+  - type: textarea
+    id: why_it_matters
+    attributes:
+      label: Why It Matters
+      description: What decisions or outcomes depend on this?
+
+  - type: textarea
+    id: candidate_answers
+    attributes:
+      label: Candidate Answers
+      description: Optional initial hypotheses or possible directions.
+
+  - type: textarea
+    id: next_steps
+    attributes:
+      label: Suggested Next Steps
+      description: What research or discussion would help resolve this?

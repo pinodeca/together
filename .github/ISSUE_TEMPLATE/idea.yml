@@ -1,0 +1,42 @@
+name: Idea Proposal
+description: Propose a new concept, model, or strategic direction
+labels:
+  - idea
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: What is the idea in 2-4 sentences?
+      placeholder: Concise summary of the proposal
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem or Opportunity
+      description: What gap or opportunity does this address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Approach
+      description: Describe the idea in enough detail to evaluate it.
+    validations:
+      required: true
+
+  - type: textarea
+    id: assumptions
+    attributes:
+      label: Assumptions
+      description: What assumptions does this proposal depend on?
+      placeholder: List assumptions and uncertainty areas
+
+  - type: textarea
+    id: references
+    attributes:
+      label: Supporting References
+      description: Add sources, prior discussions, or related docs.
