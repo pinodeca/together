@@ -1,6 +1,8 @@
 # together
 Home for thinking, planning and advocating the Together project
 
+![Together icon](docs/assets/brand/together-icon-314px.jpg)
+
 ## AI-First Repository
 This repository is structured so AI agents and humans can collaborate effectively.
 
