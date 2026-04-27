@@ -3,11 +3,11 @@ id: discussion_ideas
 title: Ideas
 status: draft
 owner: unassigned
-last_updated: 2026-04-25
+last_updated: 2026-04-27
 tags: [discussions, ideas]
 summary_for_ai: >-
-	This document captures a practical 90-day execution roadmap for Together.
-	It focuses on starting work quickly while testing the most important assumptions.
+	This document captures the active solo-founder execution focus for Together.
+	It tracks immediate priorities, working draft messaging, and near-term decisions.
 related: [cooperation_models, global_pact_ideas]
 ---
 
@@ -16,64 +16,79 @@ related: [cooperation_models, global_pact_ideas]
 ## Purpose
 Turn vision into immediate, executable work.
 
-## Start Here (Next 14 Days)
-1. Publish a one-page project charter from the vision and principles.
-2. Define v1 contribution accounting rules (including multiplier cap policy).
-3. Set up a contribution ledger prototype (manual first, software second).
-4. Define first cohort profile: part-time builders willing to run a 90-day pilot.
-5. Pick one initial service offering that can produce real revenue quickly.
-6. Scope one jurisdiction for legal feasibility research.
+## Phase 1 Tracker
 
-## 90-Day Roadmap
+| item | status | next_action | notes |
+|---|---|---|---|
+| 3-sentence pitch | in progress | Review and tighten the draft for outreach, onboarding, and homepage use. | First draft added below; keep it short enough to reuse everywhere. |
+| How to join page | in progress | Refine the draft join path into something reusable for GitHub, Discord, or a simple landing page. | Keep scope focused on early collaborators, especially developers. |
+| Discord setup | in progress | Finish configuring Discord as a Community Server and document moderation guidance. | Initial setup done; needs completion using official Discord guidance. |
+| Recruiting outreach | not started | Identify 5-10 aligned developers for direct outreach. | Start with people likely to respond to a values-driven invitation. |
+| Ownership OS work in public | in progress | Keep defining lightweight contribution and governance systems while publishing progress. | Contribution ledger now exists; governance and onboarding are next. |
 
-### Phase 1 (Days 1-30): Foundation and First Cohort
-- Deliverable: v0 governance and contribution rules published.
-- Deliverable: first 10-20 pilot contributors onboarded.
-- Deliverable: pilot service offer defined and pre-sold if possible.
-- Deliverable: baseline metrics dashboard defined.
+## 3-Sentence Pitch
+Together is building a voluntary global economic community where people can co-own the organizations they build and depend on.
 
-### Phase 2 (Days 31-60): Pilot Operations
-- Deliverable: pilot work pipeline operating with task/project assignments.
-- Deliverable: contribution units recorded with transparent review process.
-- Deliverable: first customer delivery completed.
-- Deliverable: first revenue event or signed commitment.
+We are starting with developer-led, digital-first systems that make contribution, shared ownership, and collaboration transparent and practical.
 
-### Phase 3 (Days 61-90): Stabilize and Decide
-- Deliverable: retrospective on fairness, throughput, and member experience.
-- Deliverable: recommendation for legal entity setup in first jurisdiction.
-- Deliverable: decision on go/no-go for broader cohort expansion.
-- Deliverable: v1 roadmap with validated assumptions and dropped assumptions.
+If you want to help build a fairer alternative to winner-take-all economics, you can join early by helping shape the ownership operating system, the first tools, and the first pilot organizations.
 
-## Workstreams (Run In Parallel)
+## Current Focus
+Reach the first 3-7 aligned collaborators while continuing to build lightweight ownership and contribution systems in public.
 
-### Workstream A: Ownership OS (Layer 1)
-- Contribution accounting model
-- Ownership allocation policy
-- Governance proposal and voting flows
+## How To Join
+Together is looking for early collaborators who are aligned with the long-term vision and willing to help build the first version of the ownership operating system in public.
 
-### Workstream B: Production Software (Layer 2)
-- Task intake and assignment
-- Contribution ledger and review
-- Transparency dashboard for members
+Right now, the best fit is a developer or technically fluent builder who can contribute part-time, work from rough drafts, and help shape both the tools and the norms.
 
-### Workstream C: Operating Companies (Layer 3)
-- Select first digital-first company model
-- Acquire first customers
-- Define operating playbook for replication
+### What early collaborators can do in their first week
+- Read the vision and active ideas documents.
+- Join the main communication channel once it exists.
+- Pick one small contribution in governance, documentation, or tooling.
+- Log work transparently and suggest improvements to the contribution system itself.
 
-### Workstream D: Enablement
-- Outreach and narrative materials
-- Onboarding and community support
-- Legal and compliance research
+### What we are offering right now
+- A chance to help shape the system from the beginning.
+- Open collaboration around governance, contribution tracking, and shared ownership design.
+- A serious but early-stage effort, with many core questions still open.
+
+### What we are not offering yet
+- Salaries or immediate cash compensation.
+- A finalized equity or ownership formula.
+- A fully mature operating structure.
+
+### What to do if interested
+- Read the 3-sentence pitch and current focus.
+- Reach out directly or join the community channel when available.
+- Share your background, why the project resonates, and how much time you could realistically contribute.
+
+## Next 14 Days
+1. Tighten the 3-sentence pitch for outreach and homepage use.
+2. Draft a simple "How to join" path for early collaborators.
+3. Complete Discord Community Server setup and moderation baseline docs.
+4. Identify 5-10 developers for direct outreach.
+5. Keep contribution and governance primitives simple and public.
+
+## Discord Community Setup TODO
+- Complete Discord Community Server configuration using official guidance:
+	- https://support.discord.com/hc/en-us/articles/14078261239831-Clarifying-Server-Types
+	- https://support.discord.com/hc/en-us/articles/360035969312-Community-Server-Guidelines
+- Document the resulting moderation and safety expectations in project docs.
+- Treat this guidance as required onboarding material for anyone who later helps moderate the Together Discord.
+
+## Next 3 Decisions
+1. Who exactly should the first recruitment message target?
+2. What should an early collaborator be able to do in their first week?
+3. Which governance and contribution rules are necessary now versus deferrable?
+
+## Backlog / Parked
+- Detailed 90-day operating plan
+- Pilot metrics beyond simple contribution and recruitment tracking
+- Revenue model selection
+- Jurisdiction selection and legal research
+- Initial service offering definition
 
 ## Triage Guidance
-- If an item blocks work in the next 30 days, keep it in active planning.
-- If an item does not block near-term work, move it to open questions.
-- Promote settled policy choices to decision records.
-
-## Pilot Metrics (Minimum Set)
-- Number of active contributors per week
-- Contribution units logged and reviewed
-- Cycle time from task creation to completion
-- Revenue generated or contracted
-- Member retention after first 30 days
+- Keep items here only if they matter in the next 14 days.
+- Move blockers and unresolved policy questions to `discussions/open_questions.md`.
+- Promote stable direction changes to decision records.
