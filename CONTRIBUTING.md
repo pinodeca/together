@@ -32,6 +32,11 @@ Use Pull Requests for:
 Join ongoing discussions in Issues.  
 Thoughtful dialogue is as valuable as code or documents.
 
+## Community
+For real-time conversation and to connect with other collaborators, join the Together Discord:
+
+**[Join the Together Discord](https://discord.gg/fuQQgsM457)**
+
 ## Contribution Workflow
 1. Fork the repository  
 2. Create a branch for your contribution  

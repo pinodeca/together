@@ -12,6 +12,11 @@ This repository is structured so AI agents and humans can collaborate effectivel
 - Use `docs/glossary.md` for shared terminology.
 - Track major decisions in `decisions/`.
 
+## Community
+Join us on Discord to connect with other collaborators, discuss ideas, and get started.
+
+**[Join the Together Discord](https://discord.gg/fuQQgsM457)**
+
 ## License
 
 The **Together Project** is released under the  
