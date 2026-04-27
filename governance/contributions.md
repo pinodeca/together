@@ -3,7 +3,7 @@ id: contributions_ledger
 title: Contributions Ledger and Conventions
 status: draft
 owner: unassigned
-last_updated: 2026-04-26
+last_updated: 2026-04-27
 tags: [governance, contributions, accounting]
 summary_for_ai: >-
   This document defines the v0 conventions for tracking contributions in Together.
@@ -58,6 +58,7 @@ Each row must include:
 | date | contributor | work_summary | evidence_links | hours_logged | hours_recognized | notes |
 |---|---|---|---|---:|---:|---|
 | 2026-04-25 | pinodeca | AI-first repo setup: structure scaffolding, contribution workflow, and foundational strategy docs | 67a795c; 2443f64 | 2.0 | 0.0 | pending review |
+| 2026-04-27 | pinodeca | Community and governance follow-through: contribution ledger setup, project icon in various sizes, Discord link rollout, and moderation policy updates | c279f87; 01ea45d; 27c2fea; 066afce | 3.0 | 0.0 | pending review |
 | YYYY-MM-DD | name | concise summary | link(s) | 0.0 | 0.0 | pending review |
 
 ## Future System Migration
@@ -70,3 +71,4 @@ Each row must include:
 - 2026-04-26: Initial v0 contribution tracking conventions created.
 - 2026-04-26: Added commit policy for time logging and future migration guidance.
 - 2026-04-26: Added time-log commit naming convention and first ledger entry.
+- 2026-04-27: Added second ledger entry for unlogged community and governance work.

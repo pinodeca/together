@@ -54,6 +54,11 @@ To make collaboration easier for both people and AI agents:
 
 If you use AI assistance, review outputs for accuracy, clarity, and respectful language before submission.
 
+## Date and Time Convention
+- Use UTC as the project-wide time standard.
+- For `last_updated` and `date` fields, use UTC calendar date in `YYYY-MM-DD` format.
+- When exact timing matters, use ISO 8601 timestamps in UTC (for example, `2026-04-27T00:28:07Z`).
+
 ## Code of Conduct
 All contributors are expected to:
 - Treat others with dignity  

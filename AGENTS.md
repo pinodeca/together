@@ -37,6 +37,11 @@ related: []
 ---
 ```
 
+## Date and Time Convention
+- Use UTC as the project-wide time standard.
+- For `last_updated` and `date` fields, use UTC calendar date in `YYYY-MM-DD` format.
+- When exact timing matters, use ISO 8601 timestamps in UTC (for example, `2026-04-27T00:28:07Z`).
+
 ## Writing Quality Bar
 - State the problem and context first.
 - Use plain language and define key terms.
